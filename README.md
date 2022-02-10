@@ -17,5 +17,5 @@ List of awesome tools I use for React development.
 
 ## Styling
 
-* [https://github.com/css-modules/css-modules](CSS Modules)
-* [https://styled-components.com/](Styled Components)
+* [CSS Modules](https://github.com/css-modules/css-modules)
+* [Styled Components](https://styled-components.com/)
