@@ -1,5 +1,5 @@
 # react-resources
-List of awesome tools I use for React development
+List of awesome tools I use for React development.
 
 ## UI, Widgets
 
