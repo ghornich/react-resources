@@ -13,6 +13,10 @@ List of awesome tools I use for React development.
 
 ## State management
 
+## Validation
+
+* [zod](https://github.com/colinhacks/zod)
+
 ## Routing
 
 ## Styling
